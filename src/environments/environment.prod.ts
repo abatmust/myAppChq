@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  urlApi: "http://192.168.5.8/bjd/chq"
 };
